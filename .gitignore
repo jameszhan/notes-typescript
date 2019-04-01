@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 helloworld.js
 *.db/
 *.iml
@@ -5,6 +6,8 @@ helloworld.js
 *.ipr
 idea/
 
+=======
+>>>>>>> df6b267e7f89271f044da3a8306ef8516fe84f57
 # Logs
 logs
 *.log
@@ -65,4 +68,8 @@ typings/
 .env
 
 # next.js build output
+<<<<<<< HEAD
 .next
+=======
+.next
+>>>>>>> df6b267e7f89271f044da3a8306ef8516fe84f57
